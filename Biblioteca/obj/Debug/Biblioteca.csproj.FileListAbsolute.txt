@@ -1,0 +1,32 @@
+C:\Users\TOSHIBA\Documents\SharpDevelop Projects\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\TOSHIBA\Documents\SharpDevelop Projects\Biblioteca\Biblioteca\obj\Debug\Biblioteca.MainForm.resources
+C:\Users\TOSHIBA\Documents\SharpDevelop Projects\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.GenerateResource.Cache
+C:\Users\TOSHIBA\Documents\SharpDevelop Projects\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe.config
+C:\Users\TOSHIBA\Documents\SharpDevelop Projects\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe
+C:\Users\TOSHIBA\Documents\SharpDevelop Projects\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\TOSHIBA\Documents\SharpDevelop Projects\Biblioteca\Biblioteca\bin\Debug\Mono.Security.dll
+C:\Users\TOSHIBA\Documents\SharpDevelop Projects\Biblioteca\Biblioteca\bin\Debug\Npgsql.dll
+C:\Users\TOSHIBA\Documents\SharpDevelop Projects\Biblioteca\Biblioteca\obj\Debug\Biblioteca.exe
+C:\Users\TOSHIBA\Documents\SharpDevelop Projects\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\TOSHIBA\Documents\SharpDevelop Projects\Biblioteca\Biblioteca\obj\Debug\Biblioteca.AgregarUsuario.resources
+C:\Users\TOSHIBA\Documents\SharpDevelop Projects\Biblioteca\Biblioteca\obj\Debug\Biblioteca.MostrarUsuario.resources
+C:\Users\TOSHIBA\Documents\SharpDevelop Projects\Biblioteca\Biblioteca\obj\Debug\Biblioteca.AgregarMaterial.resources
+C:\Users\TOSHIBA\Documents\SharpDevelop Projects\Biblioteca\Biblioteca\obj\Debug\Biblioteca.MostrarMaterial.resources
+C:\Users\TOSHIBA\Documents\SharpDevelop Projects\Biblioteca\Biblioteca\obj\Debug\Biblioteca.AgregarPrestamo.resources
+C:\Users\TOSHIBA\Documents\SharpDevelop Projects\Biblioteca\Biblioteca\obj\Debug\Biblioteca.BuscarPrestamo.resources
+C:\Users\X-Zone\Desktop\cucei\Ing. Software I\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe.config
+C:\Users\X-Zone\Desktop\cucei\Ing. Software I\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe
+C:\Users\X-Zone\Desktop\cucei\Ing. Software I\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\X-Zone\Desktop\cucei\Ing. Software I\Biblioteca\Biblioteca\bin\Debug\Mono.Security.dll
+C:\Users\X-Zone\Desktop\cucei\Ing. Software I\Biblioteca\Biblioteca\bin\Debug\Npgsql.dll
+C:\Users\X-Zone\Desktop\cucei\Ing. Software I\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\X-Zone\Desktop\cucei\Ing. Software I\Biblioteca\Biblioteca\obj\Debug\Biblioteca.AgregarMaterial.resources
+C:\Users\X-Zone\Desktop\cucei\Ing. Software I\Biblioteca\Biblioteca\obj\Debug\Biblioteca.AgregarPrestamo.resources
+C:\Users\X-Zone\Desktop\cucei\Ing. Software I\Biblioteca\Biblioteca\obj\Debug\Biblioteca.AgregarUsuario.resources
+C:\Users\X-Zone\Desktop\cucei\Ing. Software I\Biblioteca\Biblioteca\obj\Debug\Biblioteca.BuscarPrestamo.resources
+C:\Users\X-Zone\Desktop\cucei\Ing. Software I\Biblioteca\Biblioteca\obj\Debug\Biblioteca.MainForm.resources
+C:\Users\X-Zone\Desktop\cucei\Ing. Software I\Biblioteca\Biblioteca\obj\Debug\Biblioteca.MostrarMaterial.resources
+C:\Users\X-Zone\Desktop\cucei\Ing. Software I\Biblioteca\Biblioteca\obj\Debug\Biblioteca.MostrarUsuario.resources
+C:\Users\X-Zone\Desktop\cucei\Ing. Software I\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.GenerateResource.Cache
+C:\Users\X-Zone\Desktop\cucei\Ing. Software I\Biblioteca\Biblioteca\obj\Debug\Biblioteca.exe
+C:\Users\X-Zone\Desktop\cucei\Ing. Software I\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
