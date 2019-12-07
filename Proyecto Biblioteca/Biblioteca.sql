@@ -1,0 +1,30 @@
+CREATE DATABASE Biblioteca;
+
+CREATE TABLE PRESTAMO ( 
+Foliopre SERIAL 		PRIMARY KEY,
+Fechaprestamo DATE 		NOT NULL DEFAULT CURRENT_DATE,
+Fechadevolucion DATE 	NOT NULL,
+Codigoest INT 			REFERENCES USUARIO(id),
+status BOOLEAN NOT NULL DEFAULT FALSE;
+);
+
+CREATE TABLE MATERIAL (
+idmaterial INT PRIMARY KEY,
+Titulo VARCHAR (50),
+Autor VARCHAR (50),
+Existencia INT
+);
+
+CREATE TABLE DETALLEPRESTAMO (
+Foliopre INT,
+IDMAT INT,
+FOREIGN KEY (Foliopre) REFERENCES PRESTAMO(folio),
+FOREIGN KEY (IDMAT) REFERENCES MATERIAL(idmaterial)
+);
+
+CREATE TABLE USUARIO (
+idusuario INT PRIMARY KEY,
+nombre VARCHAR (50),
+contrasena varchar(10),
+librosprestados (50);
+);
